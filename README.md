@@ -6,8 +6,7 @@ Calculate a N Value, The Minor Quantity of 2 kinds of Currents.
 
 Ex:
 
-Current One = 5
-Current Two = 7
+Current One = 5, Current Two = 7
 
 N Value = 50
 

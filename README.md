@@ -1,7 +1,8 @@
 # Problema-Menor-Quantidade-de-Moedas
 
-Calcula Apartir de um valor N, a menor Quantidade de Notas Possiveis de 2 Valores
-Calculate a N Value, The Minor Quantity of 2 kinds of Currents
+Calcula Apartir de um valor N, a menor Quantidade de Notas Possiveis de 2 Valores.
+
+Calculate a N Value, The Minor Quantity of 2 kinds of Currents.
 
 Ex:
 
